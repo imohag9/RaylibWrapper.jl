@@ -1,0 +1,19 @@
+name = "RaylibWrapper"
+uuid = "94d0a5c0-cbff-40d6-acf3-68cde29ba2e2"
+version = "0.1.0"
+authors = ["imohag9 <souidi.hamza90@gmail.com> and contributors"]
+
+[deps]
+Downloads = "f43a241f-c20a-4ad4-852c-f6b1247861c6"
+LazyArtifacts = "4af54fe1-eca0-43a8-85a7-787d91b784e3"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+ZipArchives = "49080126-0e18-4c2a-b176-c102e4b3760c"
+
+[compat]
+Downloads = "1.6.0"
+LazyArtifacts = "1.11.0"
+Libdl = "1.11.0"
+Pkg = "1.12.0"
+ZipArchives = "2.6.0"
+julia = "1.11"
