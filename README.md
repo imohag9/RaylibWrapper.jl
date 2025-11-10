@@ -67,6 +67,9 @@ This simple example demonstrates the basic structure of a Raylib application in 
 The official documentation provides a complete list of all wrapped functions and types.
 *   **[Raylib Cheatsheet](https://www.raylib.com/cheatsheet/cheatsheet.html)** — Documentation for the latest released version.
 
+*   **[Raylib Examples](https://github.com/imohag9/RaylibExamples.jl)** — Port for some of the examples from the original project in pure Julia.
+
+
 
 ## Contributing
 
